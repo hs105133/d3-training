@@ -14,5 +14,7 @@ http://localhost:5000/
 
 - Presentation - [d3 presentation](d3js-presentation.zip) 
 - Demos - [d3 demos](d3demos)
+- D3.js written rutorial - https://ng-training.herokuapp.com/#/d3js/dashboard
+
 
 
